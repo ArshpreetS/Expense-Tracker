@@ -5,6 +5,8 @@ This is a React application I created while learning React.
 
 ![image](https://user-images.githubusercontent.com/76895787/173844789-e47809f4-8114-4633-ae65-301763009b7f.png)
 
+# How it works
+
 ## Step 1
 > Click the `Add a New Expense` button and a form will pop up.
 
@@ -19,3 +21,10 @@ This is a React application I created while learning React.
 > Click the `Add Expense` button
 
 ![image](https://user-images.githubusercontent.com/76895787/173845789-5f315700-7070-42ca-86f3-1c261bea2737.png)
+
+# Get Started
+
+1. Clone the repo
+2. Execute the command `npm install`
+3. Run it locally using the command `npm start`
+> Which will start a local server at port 3000 by default
